@@ -51,6 +51,17 @@
 
 #### 🏆 Selected Awards
 
+<p align="center">
+  <a href="https://mitadmissions.org/blogs/entry/live-blog-blueprint-2025/"><img src="https://img.shields.io/badge/MIT%20Blueprint-1st%20Place-F4B400?style=for-the-badge" alt="MIT Blueprint 1st Place"/></a>
+  <a href="https://sarahzoulinyan.github.io/igem-2025-wiki/"><img src="https://img.shields.io/badge/iGEM-Regional%20Gold-FFC107?style=for-the-badge" alt="iGEM Regional Gold"/></a>
+  <a href="https://doi.org/10.1109/TMTT.2026.3680218"><img src="https://img.shields.io/badge/IEEE%20TMTT-Co--Author-00629B?style=for-the-badge&logo=ieee" alt="IEEE TMTT Co-Author"/></a>
+  <a href="https://doi.org/10.1109/NEMO62710.2025.11215342"><img src="https://img.shields.io/badge/IEEE%20NEMO-Co--Author-00629B?style=for-the-badge&logo=ieee" alt="IEEE NEMO Co-Author"/></a>
+  <a href="https://doi.org/10.48550/arXiv.2507.02947"><img src="https://img.shields.io/badge/arXiv-Author-B31B1B?style=for-the-badge&logo=arxiv" alt="arXiv Author"/></a>
+  <a href="https://patents.google.com/patent/US20250275261A1/en"><img src="https://img.shields.io/badge/U.S.%20Patent%20Application-Co--Inventor-7B1FA2?style=for-the-badge" alt="U.S. Patent Application Co-Inventor"/></a>
+  <a href="https://liter-of-light.pages.dev/#founder"><img src="https://img.shields.io/badge/Solar%20Lamps-500%2B-FF8F00?style=for-the-badge" alt="500+ Solar Lamps"/></a>
+  <a href="https://liter-of-light.pages.dev/#founder"><img src="https://img.shields.io/badge/People%20Supported-2%2C000%2B-2E7D32?style=for-the-badge" alt="2,000+ People Supported"/></a>
+</p>
+
 - 🥇 **MIT Blueprint 2025 — General Division, 1st Place** for [Rapid Relief Routing](https://mitadmissions.org/blogs/entry/live-blog-blueprint-2025/)
 - 🥇 **International Genetically Engineered Machine Competition — Regional Gold** for [PRoSPER](https://sarahzoulinyan.github.io/igem-2025-wiki/)
 
