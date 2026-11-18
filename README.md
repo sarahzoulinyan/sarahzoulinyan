@@ -111,7 +111,7 @@
 - **Inverse Design of Substrate-Parameterized Millimeter-Wave Filters for RF Chiplet Integration Assisted by Large Language Model** — *IEEE Transactions on Microwave Theory and Techniques*, 2026 · [DOI](https://doi.org/10.1109/TMTT.2026.3680218)
 - **Modeling and Electromagnetic Compatibility Analysis of Civil UAV Communication Links in Harsh Electromagnetic Interference Environments** — *IEEE NEMO*, 2025 · [DOI](https://doi.org/10.1109/NEMO62710.2025.11215342)
 - **The Application of Large Language Models on Major Depressive Disorder Support Based on African Natural Products** — *arXiv*, 2025 · [Paper](https://doi.org/10.48550/arXiv.2507.02947)
-- **Mixture-of-Thought: LLMs with Forward and Backward Symbolic Reasoning** — PROMYS manuscript · [Paper](https://drive.google.com/file/d/1U0dsoauea7nQ0fgxAi3awdrVZxGJGcyp/view?pli=1)
+- **Mixture-of-Thought: LLMs with Forward and Backward Symbolic Reasoning** — PROMYS manuscript · [Paper](https://drive.google.com/file/d/1UOdsoauea7nQQfqxAi3awdrVZxGJGcvp/view?pli=1)
 - **Avalanche Photodetectors for Parallel Optical Interconnects** — U.S. Patent Application **US20250275261A1**, co-inventor · [Patent](https://patents.google.com/patent/US20250275261A1/en)
 
 #### 🏆 Selected Awards
