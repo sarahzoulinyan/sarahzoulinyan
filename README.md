@@ -44,7 +44,7 @@
 ## 👨🏻‍💻 Languages and Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahzoulinyan&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahzoulinyan&layout=compact&theme=tokyonight&hide=html,c&langs_count=6" height="170"/>
 </p>
 
 ### Skills:
