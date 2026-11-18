@@ -41,10 +41,11 @@
 #### 💻 Projects & Impact
 
 > 🏅 [View Papers & Awards →](#-papers--patent)
-- 💡 **Founder of [Liter of Light](https://liter-of-light.pages.dev/#founder)** — 500+ recycled-electronics solar lamps supporting 2,000+ people; $20K+ raised · [Threads](https://www.threads.com/@literoflight) · [Instagram](https://www.instagram.com/literoflight/)
-- 🛰️ **[LightWing](https://github.com/sarah31415zou/LightWing-FSO-Environmental-Mapping-Drone)** — FSO optical-communication prototype and environmental-mapping architecture for EMI-constrained settings
-- 🌌 **[LightTrace](https://github.com/sarah31415zou/LightTrace)** — interactive light-pollution visualization and light-footprint monitoring
-- 🚑 **[Rapid Relief Routing](https://github.com/sarah31415zou/Rapid-Relief-Routing)** — MIT Blueprint 2025 General Division winner
+- 💡 **Founder of [Liter of Light](https://liter-of-light-eco-gallery.pages.dev/)** — 500+ recycled-electronics solar lamps supporting 2,000+ people; $20K+ raised · [Threads](https://www.threads.com/@literoflight)
+- 🛰️ **[LightWing](https://github.com/sarahzoulinyan/LightWing-FSO-Environmental-Mapping-Drone)** — FSO optical-communication prototype and environmental-mapping architecture for EMI-constrained settings
+- 🌌 **[LightTrace](https://github.com/sarahzoulinyan/LightTrace)** — interactive light-pollution visualization and light-footprint monitoring
+- 🤖 **[ANT](https://github.com/sarahzoulinyan/World-Robot-Olympiad-International-Global-Gold-ANT)** — World Robot Olympiad global gold · [Official scoring](https://scoring.wro-association.org/en/event/scoring/293)
+- 🚑 **[Rapid Relief Routing](https://github.com/sarahzoulinyan/Rapid-Relief-Routing)** — MIT Blueprint 2025 General Division winner
 - 🧬 **[PRoSPER](https://sarahzoulinyan.github.io/igem-2025-wiki/)** — planetary soil-perchlorate removal and enrichment remediation
 - 🧾 **[CircuitCost](https://sarahzoulinyan.github.io/CircuitCost/)** — component-cost management software for engineers
 
@@ -122,10 +123,11 @@
   <a href="https://doi.org/10.1109/NEMO62710.2025.11215342"><img src="https://img.shields.io/badge/IEEE%20NEMO-Co--Author-00629B?style=for-the-badge&logo=ieee" alt="IEEE NEMO Co-Author"/></a>
   <a href="https://doi.org/10.48550/arXiv.2507.02947"><img src="https://img.shields.io/badge/arXiv-Author-B31B1B?style=for-the-badge&logo=arxiv" alt="arXiv Author"/></a>
   <a href="https://patents.google.com/patent/US20250275261A1/en"><img src="https://img.shields.io/badge/U.S.%20Patent%20Application-Co--Inventor-7B1FA2?style=for-the-badge" alt="U.S. Patent Application Co-Inventor"/></a>
-  <a href="https://liter-of-light.pages.dev/#founder"><img src="https://img.shields.io/badge/Solar%20Lamps-500%2B-FF8F00?style=for-the-badge" alt="500+ Solar Lamps"/></a>
-  <a href="https://liter-of-light.pages.dev/#founder"><img src="https://img.shields.io/badge/People%20Supported-2%2C000%2B-2E7D32?style=for-the-badge" alt="2,000+ People Supported"/></a>
+  <a href="https://liter-of-light-eco-gallery.pages.dev/"><img src="https://img.shields.io/badge/Solar%20Lamps-500%2B-FF8F00?style=for-the-badge" alt="500+ Solar Lamps"/></a>
+  <a href="https://liter-of-light-eco-gallery.pages.dev/"><img src="https://img.shields.io/badge/People%20Supported-2%2C000%2B-2E7D32?style=for-the-badge" alt="2,000+ People Supported"/></a>
 </p>
 
+- 🥇 **World Robot Olympiad — Global Gold, World Ranking 5th** for [ANT](https://github.com/sarahzoulinyan/World-Robot-Olympiad-International-Global-Gold-ANT) · [Official scoring](https://scoring.wro-association.org/en/event/scoring/293)
 - 🥇 **MIT Blueprint 2025 — General Division, 1st Place** for [Rapid Relief Routing](https://mitadmissions.org/blogs/entry/live-blog-blueprint-2025/)
 - 🥇 **International Genetically Engineered Machine Competition — Regional Gold** for [PRoSPER](https://sarahzoulinyan.github.io/igem-2025-wiki/)
 
