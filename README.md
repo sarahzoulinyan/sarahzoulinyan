@@ -86,6 +86,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
 
+## 📈 Open Source Contributions | All Years
+
+<p align="center">
+  <img src="./assets/contribution-history.svg" alt="Sarah Zou's GitHub contribution history from 2015 to the present" width="100%"/>
+</p>
+
+<p align="center"><sub>Built from my real GitHub contribution calendar and updated automatically every day.</sub></p>
+
 #### 📄 Papers & Patent
 
 - **Inverse Design of Substrate-Parameterized Millimeter-Wave Filters for RF Chiplet Integration Assisted by Large Language Model** — *IEEE Transactions on Microwave Theory and Techniques*, 2026 · [DOI](https://doi.org/10.1109/TMTT.2026.3680218)
