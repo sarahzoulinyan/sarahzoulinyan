@@ -16,8 +16,12 @@
     <code>🌱 Environmental AI · Intelligent Hardware · Human-Centered Technology.</code>
     <code>🔬 Research · Engineering · Open Source.</code>
   </p>
-<p>
-</p>
+
+  <p>
+    <a href="mailto:sarah31415@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-sarah31415%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Sarah Zou"/></a>
+    <a href="tel:+639173287409"><img src="https://img.shields.io/badge/PHONE-%2B63.9173287409-2E7D32?style=for-the-badge&logoColor=white" alt="Call Sarah Zou"/></a>
+    <a href="https://github.com/sarahzoulinyan"><img src="https://img.shields.io/badge/GITHUB-sarahzoulinyan-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sarah Zou on GitHub"/></a>
+  </p>
 </div>
 <table>
 <tr>
