@@ -1,9 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&vCenter=true&width=720&height=45&pause=100000&lines=Hi,+I'm+Sarah+Zou.+AI+Full-Stack+Engineer" alt="Hi, I'm Sarah Zou. AI Full-Stack Engineer"/>
-  <p>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently Focus on Agentic Infra.</strong>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&vCenter=true&width=720&height=45&pause=100000&lines=Hi,+I'm+Sarah+Zou.+Full-Stack+Engineer" alt="Hi, I'm Sarah Zou. Full-Stack Engineer"/>
+
+  <div align="left">
+    <ul>
+      <li>🔭 <strong>Currently Focusing on:</strong> In-depth research into Large Language Model applications (LLM Apps), AI agent ecosystems (AI Agents), and the efficient implementation of Agentic Workflows.</li>
+      <li>💻 <strong>Engineering:</strong> Strong full-stack development capabilities, with a passion for building highly concurrent, highly available, cloud-native modern web systems.</li>
+      <li>📊 <strong>Data &amp; AI:</strong> Exploring big-data architectures and distributed systems, uncovering business value from massive datasets, and driving data-powered, AI-enabled business innovation.</li>
+      <li>🌱 <strong>Learning:</strong> Continuously advancing in core AIGC technologies, Kubernetes container orchestration, and next-generation microservices architecture.</li>
+      <li>💬 <strong>Ask me about:</strong> Java, Python, React, JavaScript, architecture design, microservices, data governance, and applied AI solutions.</li>
+      <li>🎯 <strong>Vision:</strong> Transforming cutting-edge AI technologies and large-scale data-processing capabilities into productivity tools that solve real business problems.</li>
+    </ul>
+  </div>
 
   <p>
     <code>🌱 Environmental AI · Intelligent Hardware · Human-Centered Technology.</code>
@@ -92,7 +99,7 @@
   <img src="./assets/contribution-history.svg" alt="Sarah Zou's GitHub contribution history from 2015 to the present" width="100%"/>
 </p>
 
-<p align="center"><sub>Built from my complete GitHub contribution history with hundreds of real active-week data points.</sub></p>
+<p align="center"><sub>Built from my complete GitHub contribution history, displayed by month across every recorded year.</sub></p>
 
 #### 📄 Papers & Patent
 
