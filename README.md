@@ -92,7 +92,7 @@
   <img src="./assets/contribution-history.svg" alt="Sarah Zou's GitHub contribution history from 2015 to the present" width="100%"/>
 </p>
 
-<p align="center"><sub>Built from my real GitHub contribution calendar, covering every contribution year from 2015 to 2026.</sub></p>
+<p align="center"><sub>Built from my complete GitHub contribution history with hundreds of real active-week data points.</sub></p>
 
 #### 📄 Papers & Patent
 
