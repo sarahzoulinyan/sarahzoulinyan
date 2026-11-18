@@ -117,7 +117,7 @@
 #### 🏆 Selected Awards
 
 <p align="center">
-  <a href="https://mitadmissions.org/blogs/entry/live-blog-blueprint-2025/"><img src="https://img.shields.io/badge/MIT%20Blueprint-1st%20Place-F4B400?style=for-the-badge" alt="MIT Blueprint 1st Place"/></a>
+  <a href="https://github.com/sarahzoulinyan/Rapid-Relief-Routing"><img src="https://img.shields.io/badge/MIT%20Blueprint-1st%20Place-F4B400?style=for-the-badge" alt="MIT Blueprint 1st Place"/></a>
   <a href="https://sarahzoulinyan.github.io/igem-2025-wiki/"><img src="https://img.shields.io/badge/iGEM-Regional%20Gold-FFC107?style=for-the-badge" alt="iGEM Regional Gold"/></a>
   <a href="https://doi.org/10.1109/TMTT.2026.3680218"><img src="https://img.shields.io/badge/IEEE%20TMTT-Co--Author-00629B?style=for-the-badge&logo=ieee" alt="IEEE TMTT Co-Author"/></a>
   <a href="https://doi.org/10.1109/NEMO62710.2025.11215342"><img src="https://img.shields.io/badge/IEEE%20NEMO-Co--Author-00629B?style=for-the-badge&logo=ieee" alt="IEEE NEMO Co-Author"/></a>
@@ -127,8 +127,8 @@
   <a href="https://liter-of-light-eco-gallery.pages.dev/"><img src="https://img.shields.io/badge/People%20Supported-2%2C000%2B-2E7D32?style=for-the-badge" alt="2,000+ People Supported"/></a>
 </p>
 
-- 🥇 **World Robot Olympiad — Global Gold, World Ranking 5th** for [ANT](https://github.com/sarahzoulinyan/World-Robot-Olympiad-International-Global-Gold-ANT)
-- 🥇 **MIT Blueprint 2025 — General Division, 1st Place** for [Rapid Relief Routing](https://mitadmissions.org/blogs/entry/live-blog-blueprint-2025/)
+- 🥇 **World Robot Olympiad — Global Gold** for [ANT](https://github.com/sarahzoulinyan/World-Robot-Olympiad-International-Global-Gold-ANT)
+- 🥇 **MIT Blueprint 2025 — General Division, 1st Place** for [Rapid Relief Routing](https://github.com/sarahzoulinyan/Rapid-Relief-Routing)
 - 🥇 **International Genetically Engineered Machine Competition — Regional Gold** for [PRoSPER](https://sarahzoulinyan.github.io/igem-2025-wiki/)
 
 <div align="center">
