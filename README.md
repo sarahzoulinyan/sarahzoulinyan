@@ -41,6 +41,49 @@
 </tr>
 </table>
 
+## 👨🏻‍💻 Languages and Tools
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahzoulinyan&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center"><strong>Python & Related</strong></td>
+      <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Languages</strong></td>
+      <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Frameworks / Platforms / Tools</strong></td>
+      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/></td>
+      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="45" height="45"/></td>
+    </tr>
+  </tbody>
+</table>
+
 #### 📄 Papers & Patent
 
 - **Inverse Design of Substrate-Parameterized Millimeter-Wave Filters for RF Chiplet Integration Assisted by Large Language Model** — *IEEE Transactions on Microwave Theory and Techniques*, 2026 · [DOI](https://doi.org/10.1109/TMTT.2026.3680218)
