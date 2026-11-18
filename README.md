@@ -53,6 +53,12 @@
 </tr>
 </table>
 
+#### 🎮 Games
+
+- [Memory Game｜English Version](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/memory-game/blob/main/docs/index.html)
+- [Domino｜English Version](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/domino/blob/main/index.html)
+
+## 👨🏻‍💻 Languages and Tools
 ## 👨🏻‍💻 Languages and Tools
 
 <p align="center">
