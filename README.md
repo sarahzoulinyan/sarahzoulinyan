@@ -53,12 +53,34 @@
 </tr>
 </table>
 
-#### 🎮 Games
+## 🎮 Games & Design
 
-- [Memory Game｜English Version](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/memory-game/blob/main/docs/index.html)
-- [Domino｜English Version](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/domino/blob/main/index.html)
+### Interactive Apps
 
-## 👨🏻‍💻 Languages and Tools
+- [Memory Game](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/memory-game/blob/main/docs/index.html)
+- [TaskForge](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/taskforge/blob/main/docs/index.html)
+- [PGFlow](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/pgflow/blob/main/docs/index.html) — requires its backend services to be online
+- [Pokédex](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/pokedex/blob/main/docs/index.html)
+- [E-commerce LuckPet](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/ecommerce-luckpet/blob/main/index.html)
+- [Petshop](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/petshop/blob/main/docs/index.html)
+- [E-commerce Kushi](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/ecommerce-kushi/blob/main/index.html)
+- [Domino](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/domino/blob/main/index.html)
+- [Max Ice Cream Shop](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/max-ice-cream-shop/blob/main/index.html)
+
+### Page Design & UI
+
+- [Virtz](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/virtz-site-example/blob/main/index.html)
+- [Ice Cream Shop](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/ice-cream-shop-site-example/blob/main/index.html)
+- [Order.uk](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/orderuk-site-example/blob/main/index.html)
+- [MUSE Hair Atelier](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/muse-site-example/blob/main/index.html)
+- [Avora Fruit](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/fruit-site-example/blob/main/index.html)
+- [Physiotherapy Site](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/physiotherapy-site-example/blob/main/index.html)
+- [Donut Shop](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/donut-shop-site-example/blob/main/index.html)
+- [Wedding Site](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/wedding-site-example/blob/main/index.html)
+- [Yoga Studio](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/yoga-studio-site-example/blob/main/index.html)
+- [Nike Site](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/nike-site-example/blob/main/index.html)
+- [Unshakable Hero/Villain](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/unshakable-hero-villain/blob/main/index.html)
+
 ## 👨🏻‍💻 Languages and Tools
 
 <p align="center">
