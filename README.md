@@ -134,13 +134,12 @@
 
 <p align="center"><sub>Built from my complete GitHub contribution history, displayed by month across every recorded year.</sub></p>
 
-#### 📄 Papers & Patent
+#### 📄 Papers
 
 - **Inverse Design of Substrate-Parameterized Millimeter-Wave Filters for RF Chiplet Integration Assisted by Large Language Model** — *IEEE Transactions on Microwave Theory and Techniques*, 2026 · [DOI](https://doi.org/10.1109/TMTT.2026.3680218)
 - **Modeling and Electromagnetic Compatibility Analysis of Civil UAV Communication Links in Harsh Electromagnetic Interference Environments** — *IEEE NEMO*, 2025 · [DOI](https://doi.org/10.1109/NEMO62710.2025.11215342)
 - **The Application of Large Language Models on Major Depressive Disorder Support Based on African Natural Products** — *arXiv*, 2025 · [Paper](https://doi.org/10.48550/arXiv.2507.02947)
 - **Mixture-of-Thought: LLMs with Forward and Backward Symbolic Reasoning** — PROMYS manuscript · [Paper](https://drive.google.com/file/d/1UOdsoauea7nQQfqxAi3awdrVZxGJGcvp/view?pli=1)
-- **Avalanche Photodetectors for Parallel Optical Interconnects** — U.S. Patent Application **US20250275261A1**, co-inventor · [Patent](https://patents.google.com/patent/US20250275261A1/en)
 
 #### 🏆 Selected Awards
 
@@ -150,7 +149,6 @@
   <a href="https://doi.org/10.1109/TMTT.2026.3680218"><img src="https://img.shields.io/badge/IEEE%20TMTT-Co--Author-00629B?style=for-the-badge&logo=ieee" alt="IEEE TMTT Co-Author"/></a>
   <a href="https://doi.org/10.1109/NEMO62710.2025.11215342"><img src="https://img.shields.io/badge/IEEE%20NEMO-Co--Author-00629B?style=for-the-badge&logo=ieee" alt="IEEE NEMO Co-Author"/></a>
   <a href="https://doi.org/10.48550/arXiv.2507.02947"><img src="https://img.shields.io/badge/arXiv-Author-B31B1B?style=for-the-badge&logo=arxiv" alt="arXiv Author"/></a>
-  <a href="https://patents.google.com/patent/US20250275261A1/en"><img src="https://img.shields.io/badge/U.S.%20Patent%20Application-Co--Inventor-7B1FA2?style=for-the-badge" alt="U.S. Patent Application Co-Inventor"/></a>
   <a href="https://liter-of-light-eco-gallery.pages.dev/"><img src="https://img.shields.io/badge/Solar%20Lamps-500%2B-FF8F00?style=for-the-badge" alt="500+ Solar Lamps"/></a>
   <a href="https://liter-of-light-eco-gallery.pages.dev/"><img src="https://img.shields.io/badge/People%20Supported-2%2C000%2B-2E7D32?style=for-the-badge" alt="2,000+ People Supported"/></a>
 </p>
