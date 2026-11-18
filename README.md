@@ -57,6 +57,7 @@
 
 ### Interactive Apps
 
+- ⭐ **[ShuffleFate — Tarot & Reflection](https://shufflefate.com/)** — live website
 - [Memory Game](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/memory-game/blob/main/docs/index.html)
 - [TaskForge](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/taskforge/blob/main/docs/index.html)
 - [PGFlow](https://htmlpreview.github.io/?https://github.com/sarahzoulinyan/pgflow/blob/main/docs/index.html) — requires its backend services to be online
